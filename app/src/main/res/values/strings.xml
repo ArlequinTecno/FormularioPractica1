@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FormularioPractica1</string>
+    <string name="title_main">Formulario de registro</string>
+    <string name="entry_name">Nombre</string>
+    <string name="entry_email">Correo electronico</string>
+    <string name="entry_pass">Contraseña</string>
+    <string name="entry_repass">Repetir contraseña</string>
+    <string name="gender">Genero</string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="born_city">Ciudad de nacimiento</string>
+    <string name="send">Enviar</string>
+    <string name="hobbies">Pasa tiempos</string>
+    <string name="read">Leer</string>
+    <string name="sport">Deportes</string>
+    <string name="music">Música</string>
+    <string name="born_date">Fecha de nacimiento</string>
+    <string name="print">Nombre: %s\nEmail: %s\nPassword: %s\nGenero: %s\nPasa tiepos: %s\nCiudad de nacimiento: %s\nFecha de nacimiento: </string>
+    <string name="game">Vídeo juegos</string>
+    <string name="formateDate">dd/MM/yyyy</string>
+    <string name="todo">TODO</string>
+    <string-array name="born_city_spiner">
+        <item>Sincelejos</item>
+        <item>Corozal</item>
+        <item>Sucre</item>
+        <item>Galeras</item>
+        <item>San Pues</item>
+        <item>Betulia</item>
+        <item>Tolú</item>
+    </string-array>
+</resources>
