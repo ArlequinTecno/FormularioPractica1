@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         val view = mainBinding.root
         setContentView(view)
 //main
+        //mundo
     }
 }
